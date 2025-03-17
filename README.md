@@ -1,2 +1,2 @@
-# learing_gith
+# learing_git
 bsically i am learning git 
